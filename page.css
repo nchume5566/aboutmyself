@@ -1,0 +1,16 @@
+
+
+body 
+{
+	background-image:url(background.jpg);
+	background-position: top right;
+}
+h1 
+{
+	background-color: red;
+	background-position:left;
+ }
+p {background-color:white}
+
+
+body {font-family: Cursive;}
